@@ -1,0 +1,11 @@
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\FORMESTUDIANTES\FORMESTUDIANTES\bin\Debug\FORMESTUDIANTES.exe.config
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\FORMESTUDIANTES\FORMESTUDIANTES\bin\Debug\FORMESTUDIANTES.exe
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\FORMESTUDIANTES\FORMESTUDIANTES\bin\Debug\FORMESTUDIANTES.pdb
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\FORMESTUDIANTES\FORMESTUDIANTES\obj\Debug\FORMESTUDIANTES.csproj.AssemblyReference.cache
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\FORMESTUDIANTES\FORMESTUDIANTES\obj\Debug\FORMESTUDIANTES.Form1.resources
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\FORMESTUDIANTES\FORMESTUDIANTES\obj\Debug\FORMESTUDIANTES.FormNotas.resources
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\FORMESTUDIANTES\FORMESTUDIANTES\obj\Debug\FORMESTUDIANTES.Properties.Resources.resources
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\FORMESTUDIANTES\FORMESTUDIANTES\obj\Debug\FORMESTUDIANTES.csproj.GenerateResource.cache
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\FORMESTUDIANTES\FORMESTUDIANTES\obj\Debug\FORMESTUDIANTES.csproj.CoreCompileInputs.cache
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\FORMESTUDIANTES\FORMESTUDIANTES\obj\Debug\FORMESTUDIANTES.exe
+C:\Users\ATC\Documents\Universidad\PROGRA\Verificaciones\FORMESTUDIANTES\FORMESTUDIANTES\obj\Debug\FORMESTUDIANTES.pdb
